@@ -3,7 +3,7 @@
 ## I'm beginner Software Engineer.   
 
 Key points
-Key skillJava backend development
+Key skill Java backend development
 
 Technical Stack
 Java
